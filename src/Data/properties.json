@@ -1,0 +1,38 @@
+[
+    {
+    "Id": 1,
+    "Name": "Apartments",
+    "Type": "2BHK",
+    "Price": 120000
+    },
+    {
+    "Id": 2,
+    "Name": "My Apartments",
+    "Type": "3BHK",
+    "Price": 140000
+    },
+    {
+    "Id": 3,
+    "Name": "Gaurav Apartments",
+    "Type": "1BHK",
+    "Price": 12000
+    },
+    {
+    "Id": 4,
+    "Name": "Swastik Apartments",
+    "Type": "2BHK",
+    "Price": 18000
+    }, 
+    {
+    "Id": 5,
+    "Name": "Villa",
+    "Type": "House",
+    "Price": 200000
+  }, 
+   {
+    "Id": 6,
+    "Name": "Micro Apartments",
+    "Type": "House",
+    "Price": 25000
+   }
+]
