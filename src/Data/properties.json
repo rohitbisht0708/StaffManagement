@@ -1,38 +1,51 @@
 [
     {
     "Id": 1,
+    "SellRent": 1,
     "Name": "Apartments",
     "Type": "2BHK",
-    "Price": 120000
+    "Price": 120000,
+    "Image": "prop-1"
     },
     {
     "Id": 2,
+    "SellRent": 1,
     "Name": "My Apartments",
     "Type": "3BHK",
-    "Price": 140000
+    "Price": 140000,
+    "Image": "prop-2"
     },
     {
     "Id": 3,
+    "SellRent": 1,
     "Name": "Gaurav Apartments",
     "Type": "1BHK",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "prop-3"
     },
     {
     "Id": 4,
+    "SellRent": 1,
     "Name": "Swastik Apartments",
     "Type": "2BHK",
-    "Price": 18000
+    "Price": 18000,
+    "Image": "prop-4"
     }, 
     {
     "Id": 5,
+    "SellRent": 2,
     "Name": "Villa",
     "Type": "House",
-    "Price": 200000
+    "Price": 200000,
+    "Image": "prop-5"
   }, 
    {
     "Id": 6,
+    "SellRent": 2,
     "Name": "Micro Apartments",
     "Type": "House",
-    "Price": 25000
+    "Price": 25000,
+    "Image": "prop-6"
+    
    }
 ]

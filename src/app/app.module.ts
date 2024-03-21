@@ -8,13 +8,17 @@ import { PropertyCardComponent } from './Property/property-card/propert-card.com
 import { PropertyListComponent } from './Property/property-list/property-list.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { HousingService } from './services/housing.service';
+import { AddPropertyComponent } from './Property/add-property/add-property.component';
+import { PropertyDetailsComponent } from './Property/property-details/property-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
    PropertyCardComponent,
    PropertyListComponent,
-   NavBarComponent
+   NavBarComponent,
+   AddPropertyComponent,
+   PropertyDetailsComponent
 
   ],
   imports: [
